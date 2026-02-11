@@ -1,0 +1,8 @@
+{
+  "name": "Valentine Premium Pro",
+  "description": "A premium, fully interactive Valentine's Day application with custom love pages, video generation, and secure PIN protection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
